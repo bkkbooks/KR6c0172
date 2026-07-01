@@ -1,0 +1,73 @@
+canonical_identifier: bkk:krp/KR6c0172/v1
+canonical_location: https://kanripo.org/bkk/KR6c0172/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 般若心經添足
+  identifiers:
+    alt_id:
+    - X26n0553
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X26/X26n0553.xml
+    old_id: X26n0553
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0172_000.yaml, hash: 'sha256:e56390ff95a0e3b7f3e8de069899be762d74eb33493f6fdc4662291eaede9c1f'}
+  - {seq: 1, filename: KR6c0172_001.yaml, hash: 'sha256:2bbc8499ce17b3e6a16ddf158ca9db10729f6225aed3ef154956e7c92c9aed37'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0172_000.markers.yaml, hash: 'sha256:2120cf630653ef5e0f9cd5f9678657070581e10696cdd2d14ddf7bd9d650ef0a'}
+  - {seq: 1, role: markers, filename: assets/KR6c0172_001.markers.yaml, hash: 'sha256:056ad4aa82c96aa800181387dfc541fa199b4c0f85e8d88e802d36b2fd741885'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0172_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 553-A 心經添足序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0172_X_000-mulu-2
+    span:
+    - front
+    - 126
+    - 126
+  label: No. 553-B 心經添足科文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0172_X_000-mulu-3
+    span:
+    - front
+    - 266
+    - 266
+  label: 般若波羅蜜多心經添足
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0172_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 10374
+  label: 般若波羅蜜多心經添足
+  type: juan
+  level: 1
+hash: sha256:5609f929413c1ccbf53f66ceb66908bf63b0808c34a71b07dbd386e68ce86ace
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

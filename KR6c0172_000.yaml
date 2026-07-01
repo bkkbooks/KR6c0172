@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR6c0172/x/v1/juan/0
+seq: 0
+front:
+  text: 心經添足序如來出世本為衆生發明心地然心無跡難以形容不已於虗空中畫出一條鱉鼻蛇首尾宛然可觀而不可觸今不自量為蛇添足得無取嘯於人乎咦蓋欲令人知足識蛇如標月指讀是解者見蛇遺足得意忘蛇方為善用其智且不𠹛余如或不然未免毒氣所中切忌切忌時崇禎壬午秋日鼎湖山摻道人識心經添足科文釋此經文大科分二初釋題目二初正釋經題二釋譯人名二釋經文二初顯說般若四初因人顯法三初能修之人二所修之法三修證之位二正示法空二初明蘊空二顯空德二初總標二別釋四初釋蘊處界二釋十二因緣三釋四諦四釋智得三依法修證二初明菩薩得涅槃二明諸佛得菩提四結讚功能二密說般若四心經添足科文終
+  hash: sha256:eea0228edfe21cf2fbbf3230b2f0c4780028088d9e709e3ed761a27c536fd89a
+  markers:
+  - {type: 序, offset: 0, content: No. 553-A 心經添足序, id: KR6c0172_X_000-mulu-1, level: '1'}
+  - {type: 其他, offset: 126, content: No. 553-B 心經添足科文, id: KR6c0172_X_000-mulu-2, level: '1'}
+  - {type: 其他, offset: 266, content: 般若波羅蜜多心經添足, id: KR6c0172_X_000-mulu-3, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 般若心經添足
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X26/X26n0553.xml
+    old_id: X26n0553
+hash: sha256:e56390ff95a0e3b7f3e8de069899be762d74eb33493f6fdc4662291eaede9c1f
