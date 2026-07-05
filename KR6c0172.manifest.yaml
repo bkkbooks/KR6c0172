@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0172_000.yaml, hash: 'sha256:e56390ff95a0e3b7f3e8de069899be762d74eb33493f6fdc4662291eaede9c1f'}
-  - {seq: 1, filename: KR6c0172_001.yaml, hash: 'sha256:2bbc8499ce17b3e6a16ddf158ca9db10729f6225aed3ef154956e7c92c9aed37'}
+  - {seq: 0, filename: KR6c0172_000.yaml, hash: 'sha256:9cd7eeb673201370f6df4a81a4cefaa46bc94e65b280f05ca49a9f4c0b9d977e'}
+  - {seq: 1, filename: KR6c0172_001.yaml, hash: 'sha256:a208830f1eb0471976b1a8423fa0b84d06a20257759150c184d72d66e99098db'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0172_000.markers.yaml, hash: 'sha256:2120cf630653ef5e0f9cd5f9678657070581e10696cdd2d14ddf7bd9d650ef0a'}
-  - {seq: 1, role: markers, filename: assets/KR6c0172_001.markers.yaml, hash: 'sha256:056ad4aa82c96aa800181387dfc541fa199b4c0f85e8d88e802d36b2fd741885'}
+  - {seq: 0, role: markers, filename: assets/KR6c0172_000.markers.yaml, hash: 'sha256:8884c9b606f568aae6aba8eccf5a597fcf010feeef2a9ea703c8b8bbaed3cb07'}
+  - {seq: 1, role: markers, filename: assets/KR6c0172_001.markers.yaml, hash: 'sha256:710cf51b06c36e876287fe9d2a5e7b3cbbfdd299533fd3a2225c1ae643409f30'}
 table_of_contents:
 - ref:
     seq: 0
@@ -67,7 +67,4 @@ table_of_contents:
   label: 般若波羅蜜多心經添足
   type: juan
   level: 1
-hash: sha256:5609f929413c1ccbf53f66ceb66908bf63b0808c34a71b07dbd386e68ce86ace
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:40f1d644f11e6d047612673db75f34ecac17d1504d0eaad0304a3a1a40c8f6b1
