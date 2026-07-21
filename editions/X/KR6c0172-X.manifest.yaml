@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0172_000-X.yaml, hash: 'sha256:9cd7eeb673201370f6df4a81a4cefaa46bc94e65b280f05ca49a9f4c0b9d977e'}
+  - {seq: 0, filename: KR6c0172_000-X.yaml, hash: 'sha256:5077483db1a2d8b135a48b5df83ec5b3e125af81f15271e7a0605f687162855d'}
   - {seq: 1, filename: KR6c0172_001-X.yaml, hash: 'sha256:a208830f1eb0471976b1a8423fa0b84d06a20257759150c184d72d66e99098db'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0172_000-X.markers.yaml, hash: 'sha256:2175f5fdf7f225b680f38c60a56a1256d4b39fcb298440b9b7becaf149ae8c03'}
+  - {seq: 0, role: markers, filename: assets/KR6c0172_000-X.markers.yaml, hash: 'sha256:773590ac2e28073f60b2a51b716e8524b03d36f215e1d48701c80a861b396ba7'}
   - {seq: 1, role: markers, filename: assets/KR6c0172_001-X.markers.yaml, hash: 'sha256:c06bab9389e58470df62d25ddc0b03af441a87a608a8a49b4d92588b1706ca5b'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0172_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 553-A 心經添足序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0172_X_000-mulu-2
     span:
-    - front
+    - body
     - 126
     - 126
   label: No. 553-B 心經添足科文
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0172_X_000-mulu-3
     span:
-    - front
+    - body
     - 266
     - 266
   label: 般若波羅蜜多心經添足
@@ -65,4 +65,4 @@ table_of_contents:
   label: 般若波羅蜜多心經添足
   type: juan
   level: 1
-hash: sha256:abbca77e602178c287675d10cc6a7305ca7e89d0f3eefa763c5ffc92794b2fd1
+hash: sha256:b5f63f872a602aab0585b9c47099df33cee5e8f095386ed33391f5c8d88e9dc6
